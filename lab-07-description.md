@@ -245,10 +245,6 @@ fun navigate_to_races_add_race_and_return_home() {
 - Finally, right-click the `FormulaZeroTest` file and click `Run FormulaZeroTest` to run the test.
   - You should see that 1/1 tests passed!
 
-> [!NOTE]
-> - The `walkthrough.md` contains the complete code for `MainActivity.kt`, `FormulaZeroApp.kt`, `HomeScreen.kt`, `UpcomingRacesScreen.kt`, `FormulaZeroTest.kt` and `build.gradle.kts (:app)` for double-checking purposes
-> - While you could simply copy and paste the code, you're stripping yourself of a learning opportunity :)
-
 ## 2. Lab 7 Participation Exercise
 1. Create another file called `DriversScreen.kt`
   - You will need to update `HomeScreen.kt` and `FormulaZeroApp.kt` so you can navigate from the  "FormulaZero Home" screen to the "Drivers" screen
